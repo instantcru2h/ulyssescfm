@@ -1,4 +1,12 @@
+body{
+    margin: 0; 
+}
+
+
 #background{
     background-image: url 
-  (
+      (800_5439.jpg);
+    height: 100vh;
+    width: 100%; 
+    background-size: cover; 
 }
